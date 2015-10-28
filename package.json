@@ -1,0 +1,20 @@
+{
+  "name": "MovesToRusslandGame",
+  "version": "1.0.0",
+  "description": "Importer fra Moves-app via Moves-export til mongo. Så overfør til Russland på tvers",
+  "main": "index.js",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "q": "^1.4.1",
+    "moment": "^2.10.6",
+    "request": "^2.65.0",
+    "mongodb": "^2.0.46",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eivind Bergstøl",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "username" : "",
+    "passord" : "",
+    "mongourl": "mongodb://localhost:27017/walkcount",
+    "usernr": -1
+}
